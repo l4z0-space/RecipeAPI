@@ -1,4 +1,4 @@
 Django>=2.2.13,<2.3.0
-djangorestframework==3.11.0
+djangorestframework==3.11.2
 
 flake>=3.6.0,<3.7.0
